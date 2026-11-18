@@ -2,7 +2,7 @@
 
 BioBench 是一个桌面端的生物序列比对编辑与分析工具，基于 Electron + TypeScript 从零编写。
 
-它的功能设计参考了经典的 BioEdit 序列比对编辑器，目标是用现代界面覆盖 BioEdit 的常用功能。BioBench 是独立实现的程序，不包含 BioEdit 的任何代码、图标或文档，与 BioEdit 及其作者没有关联。
+它的功能设计参考了经典的 BioEdit 序列比对编辑器，BioEdit 项目已于 2021/5/10 停止更新，BioBench 的目标是用现代界面覆盖 BioEdit 的常用功能。BioBench 是独立实现的程序，不包含 BioEdit 的任何代码、图标或文档，与 BioEdit 及其作者没有关联。
 
 ## 功能
 
